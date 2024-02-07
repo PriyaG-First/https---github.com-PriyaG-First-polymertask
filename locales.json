@@ -1,0 +1,32 @@
+{
+    "en": {
+        "viewType" : "Please check view type",
+        "fromMonth" : "Please select from month",
+        "fromYear" :" Please select from year",
+        "toMonth" :" Please select to month",
+        "toYear":" Please select to year",
+        "futureDate" :"Future date is not allowed",
+        "notBetween12months" :" from month not between 12 months of to month",
+        "fromDategreater" : "From Date should not be greater than to Date",
+        "dateRange" :"Date range*",
+        "viewType_label" : "View type*",
+        "accountNumber_label":"Account number*",
+        "accountHolder" :" Account Holder*",
+        "accountNumber" :"Please select Account Number"
+    },
+    "fr": {
+      "viewType" : "Please check view type",
+      "fromMonth" : "Please select from month",
+      "fromYear" :" Please select from year",
+      "toMonth" :" Please select to month",
+      "toYear":" Please select to year",
+      "futureDate" :"Future date is not allowed",
+      "notBetween12months" :" from month not between 12 months of to month",
+      "fromDategreater" : "From Date should not be greater than to Date",
+      "dateRange" :"Date range**",
+      "viewType_label" : "View type**",
+      "accountNumber_label":"Account number**",
+      "accountHolder" :" Account Holder**",
+      "accountNumber" :"Please select Account Number"
+      }
+}

@@ -1,0 +1,22 @@
+{
+    "required":{
+        "accountNumber":"Please select Account Number",
+        "viewType":"Please check view type",
+        "fromMonth":"Please select from month",
+        "fromYear":"Please select from year",
+        "toMonth":"Please select to month",
+        "toYear":"Please select to year"
+    },
+    "validation":{
+        "future_date":"Future date is not allowed",
+        "not_between_12months":"from month not between 12 months of to month",
+        "fromDategreater":"From Date should not be greater than to Date"
+    },
+    "labels":{
+        "viewType":"View type",
+        "accountNumber":"Account number",
+        "accountHolder":"Account Holder",
+        "dateRange":"Date range"
+    }
+  
+}
